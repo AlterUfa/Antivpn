@@ -1,3 +1,5 @@
+#profile-update-interval: 1
+
 vless://984446c8-414e-4a6d-866c-3c072cddb66c@n6.fiprotected.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&serverName=cdn6.fiprotected.com&publicKey=-r2Ut_ea1p7-SdA-v6tTqu8lWhdkg6cOlTSEJG04fFo&fingerprint=firefox#%F0%9F%87%AA%F0%9F%87%BA%20%D0%A1%D0%B0%D0%BC%D1%8B%D0%B9%20%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9%20%7C%20proxy%20vless
 vless://984446c8-414e-4a6d-866c-3c072cddb66c@n3.ndprotected.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&serverName=cdn3.ndprotected.com&publicKey=nY7HQ2YzzXRZd2PJgWS7mPKG-5iXuIBIEl_V-OXmg0c&fingerprint=firefox#%F0%9F%87%AA%F0%9F%87%BA%20%D0%A1%D0%B0%D0%BC%D1%8B%D0%B9%20%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9%20%7C%20proxy%20vless-2
 vless://984446c8-414e-4a6d-866c-3c072cddb66c@rutr.protectednetwork.shop:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&serverName=trcdn.protectednetwork.shop&publicKey=Tma7pXEElzyBz96kUs8brepcfzvg4acNBxkXfQn1oTo&fingerprint=firefox#%F0%9F%87%AA%F0%9F%87%BA%20%D0%A1%D0%B0%D0%BC%D1%8B%D0%B9%20%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9%20%7C%20proxy%20vless-3
