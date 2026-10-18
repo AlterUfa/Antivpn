@@ -1,4 +1,4 @@
-#profile-update-interval: 1
+
 
 vless://8e728f53-163f-431d-853f-92501dc2f4a1@n6.fiprotected.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=cdn6.fiprotected.com&fp=firefox&pbk=-r2Ut_ea1p7-SdA-v6tTqu8lWhdkg6cOlTSEJG04fFo
 
